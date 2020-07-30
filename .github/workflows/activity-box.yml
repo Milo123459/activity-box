@@ -15,4 +15,4 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USERNAME: Milo123459
-          GIST_ID: 0063f496997f406385ed5f798069b66b
+          GIST_ID: 98394874cf3bc4870a93fc7160f90e68
